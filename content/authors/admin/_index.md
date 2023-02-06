@@ -1,7 +1,7 @@
 ---
 title: Julien Zhu
-role: IEng Grad 2023
-avatar_filename: circular-head-julien.png
+role: BaSc Industrial Engineering
+avatar_filename: avatar.png
 bio: ""
 interests:
   - Deep Learning
