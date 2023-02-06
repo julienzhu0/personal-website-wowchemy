@@ -41,5 +41,4 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Alice Wu is a professor of artificial intelligence at the Stan
-{style="text-align: justify;"}
+Howdy 🤠! I'm Julien! I'm soon to be graduate of Industrial Engineering from the University of Toronto. I started my career as a Data Scientist @ Scotiabank working on ETL pipelining w/ Airflow and Data Visualization with pandas/matplotlib in Python along side more robust tools such as Tableau and Power BI. These days, my main interests are in the field of deep learning and data warehousing. Prior to coming to Toronto, I did high school in Indiana.
