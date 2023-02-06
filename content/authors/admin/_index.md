@@ -34,11 +34,9 @@ education:
     - course: Introduction to Machine Learning
       institution: University of Toronto
 superuser: true
-status:
-  icon: ☕️
-last_name: Wu
+last_name: Zhu
 highlight_name: true
-first_name: Alice
+first_name: Julien
 email: ""
 ---
 Howdy 🤠! I'm Julien! I'm soon to be graduate of Industrial Engineering from the University of Toronto. I started my career as a Data Scientist @ Scotiabank working on ETL pipelining w/ Airflow and Data Visualization with pandas/matplotlib in Python along side more robust tools such as Tableau and Power BI. These days, my main interests are in the field of deep learning and data warehousing. Prior to coming to Toronto, I did high school in Indiana.
