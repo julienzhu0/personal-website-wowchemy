@@ -1,6 +1,7 @@
 ---
 title: Julien Zhu
 role: IEng Grad 2023
+avatar_filename: circular-head-julien.png
 bio: ""
 interests:
   - Deep Learning
@@ -15,7 +16,7 @@ social:
     link: https://github.com/julienzhu0
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/julien-zhu/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
@@ -24,15 +25,14 @@ organizations:
     url: https://www.utoronto.ca
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Introduction to Deep Learning
+      institution: University of Toronto
+      year: ""
+    - course: Analytics in Action
+      institution: University of Toronto
+      year: ""
+    - course: Introduction to Machine Learning
+      institution: University of Toronto
 superuser: true
 status:
   icon: ☕️
